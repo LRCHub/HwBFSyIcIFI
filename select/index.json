@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Numb",
+  "base_artist": "Men I Trust",
+  "createdAt": "2026-01-08T19:38:10.291876Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Comfortably Numb",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/01_Comfortably_Numb_Pink_Floyd.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Numb",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/02_Numb_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Numb",
+      "artist": "Amber Liu",
+      "has_synced": true,
+      "path": "select/03_Numb_Amber_Liu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Numb",
+      "artist": "ZHU",
+      "has_synced": false,
+      "path": "select/04_Numb_ZHU.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Comfortably Numb (Paper Faces mix)",
+      "artist": "Scissor Sisters",
+      "has_synced": false,
+      "path": "select/05_Comfortably_Numb_(Paper_Faces_mix)_Scissor_Sisters.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Beauty of Being Numb",
+      "artist": "Nine Inch Nails",
+      "has_synced": false,
+      "path": "select/06_The_Beauty_of_Being_Numb_Nine_Inch_Nails.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Numb",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/07_Numb_U2.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Numb/Beverly Hills",
+      "artist": "Bladee",
+      "has_synced": true,
+      "path": "select/08_Numb_Beverly_Hills_Bladee.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Numb, But I Still Feel It",
+      "artist": "Title Fight",
+      "has_synced": true,
+      "path": "select/09_Numb,_But_I_Still_Feel_It_Title_Fight.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Numb",
+      "artist": "Andy Stott",
+      "has_synced": false,
+      "path": "select/10_Numb_Andy_Stott.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Numb",
+      "artist": "Archive",
+      "has_synced": true,
+      "path": "select/11_Numb_Archive.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Numb",
+      "artist": "Portishead",
+      "has_synced": true,
+      "path": "select/12_Numb_Portishead.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Better Numb",
+      "artist": "Blood Orange",
+      "has_synced": true,
+      "path": "select/13_Better_Numb_Blood_Orange.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Comfortably Numb",
+      "artist": "The Bad Plus",
+      "has_synced": true,
+      "path": "select/14_Comfortably_Numb_The_Bad_Plus.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Feel Numb",
+      "artist": "Classixx feat. Alex Frankel",
+      "has_synced": true,
+      "path": "select/15_I_Feel_Numb_Classixx_feat._Alex_Frankel.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Numb (feat. Morgan Saint)",
+      "artist": "Beam",
+      "has_synced": true,
+      "path": "select/16_Numb_(feat._Morgan_Saint)_Beam.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Numb (Album V)",
+      "artist": "Men I Trust",
+      "has_synced": false,
+      "path": "select/pl_01_Numb_(Album_V)_Men_I_Trust.txt"
+    }
+  ]
+}
